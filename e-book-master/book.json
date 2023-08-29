@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "Name": "7011_Tushar Kashyap",
+      "Email": "tusharkashyap.ca18@chitkarauniversity.edu.in",
+      "Bio": "Developer of this e-book hub website",
+      "Gender": "male",
+      "Mobile": "777",
+      "Type": "author",
+      "status": "done",
+      "id": 1
+    },
+    {
+      "Name": "Snipy Snipy",
+      "Email": "pubgsnipy888@gmail.com",
+      "Bio": "hukho",
+      "Gender": "male",
+      "Mobile": "000",
+      "Type": "author",
+      "status": "done",
+      "id": 2
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "Name": "amit",
+      "Title": "Nice Book Representation",
+      "Desc": "Always find my book with just one click of a search"
+    },
+    {
+      "id": 2,
+      "Name": "ankit",
+      "Title": "liked all the react books",
+      "Desc": "good explanation"
+    },
+    {
+      "Name": "Ankit",
+      "Title": "design",
+      "Desc": "design and environment is so good",
+      "id": 3
+    },
+    {
+      "Name": "Vivek",
+      "Title": "i liked this book name The Last Sherlock Holmes Story",
+      "Desc": "it has very good story",
+      "id": 5
+    },
+    {
+      "Name": "7011_Tushar Kashyap",
+      "Title": "testing",
+      "Desc": "testing",
+      "id": 6
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "name": "George R.R. Martin",
+      "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one."
+    },
+    {
+      "id": 2,
+      "name": "Stephen King",
+      "quote": "Books are a uniquely portable magic."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Seuss",
+      "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go."
+    },
+    {
+      "id": 4,
+      "name": "Ernest Hemingway",
+      "quote": "There is no friend as loyal as a book."
+    },
+    {
+      "id": 5,
+      "name": "Charles W. Eliot",
+      "quote": "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers."
+    },
+    {
+      "id": 6,
+      "name": "Jorge Luis Borges",
+      "quote": "I have always imagined that Paradise will be a kind of library."
+    },
+    {
+      "id": 7,
+      "name": "Neil Gaiman",
+      "quote": "A book is a dream that you hold in your hand."
+    },
+    {
+      "id": 8,
+      "name": "Mary Schmich",
+      "quote": "Reading is a discount ticket to everywhere."
+    },
+    {
+      "id": 9,
+      "name": "Carlos Ruiz Zafón",
+      "quote": "Books are mirrors: you only see in them what you already have inside you."
+    },
+    {
+      "id": 10,
+      "name": "William Styron",
+      "quote": "A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading."
+    }
+  ]
+}
